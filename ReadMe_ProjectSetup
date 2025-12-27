@@ -1,0 +1,25 @@
+Project setup for include dependencies for Tomcat
+
+
+Start up the application :
+	1. Build and Run the application using Maven Build with   clean install 
+	2. Run As -> Run on server
+	
+	
+	
+Url
+
+	
+	
+	
+	http://localhost:8080/spring-boot-aws-demo/test-aws
+	
+	http://localhost:8080/actuator/info
+	http://localhost:8080/actuator/health
+	http://localhost:8080/actuator
+  	
+  	
+  	
+   
+   
+   
