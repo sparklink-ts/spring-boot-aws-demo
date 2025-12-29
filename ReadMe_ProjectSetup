@@ -9,10 +9,12 @@ Start up the application :
 	
 Url
 
-	
+	employeeSalary, employeeAge, employeeDesignation, employeeAddress, employeeType, employeeGrade	
 	
 	
 	http://localhost:8080/spring-boot-aws-demo/test-aws
+	http://localhost:8080/spring-boot-aws-demo/saveEmployeeDetails/1000/Mithun Majumdar/150000/45/Sr.Tech Lead/Pune/Permanent/Lead-01
+	http://localhost:8080/spring-boot-aws-demo/getEmployeeDetails
 	
 	http://localhost:8080/actuator/info
 	http://localhost:8080/actuator/health
